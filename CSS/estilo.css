@@ -1,0 +1,30 @@
+.alatsi-regular {
+  font-family: "Alatsi", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: rgb(70, 130, 180);
+  color: white;
+}
+
+.container{
+  background-color: skyblue;
+  width: 400px;
+  height: 150px;
+}
+.container-fluid{
+background-color: lightcoral;
+/*width: 500px;*/
+/*height: 300px;*/
+}
+.row{
+  background-color: dodgerblue;
+  margin: 2px;  
+}
+.col{
+  background-color: lightyellow;
+  margin: 5px;
+}
+#carouselExampleIndicators{
+  width: 600px;
+  height: 200px;
+}
